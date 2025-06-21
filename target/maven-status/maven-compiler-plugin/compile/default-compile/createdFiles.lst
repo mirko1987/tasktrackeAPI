@@ -1,0 +1,8 @@
+com/tasktracker/controller/TaskController.class
+com/tasktracker/service/TaskServiceImpl.class
+com/tasktracker/dto/TaskResponseDto.class
+com/tasktracker/dto/TaskCreateDto.class
+com/tasktracker/repository/TaskRepository.class
+com/tasktracker/TaskTrackerApplication.class
+com/tasktracker/service/TaskService.class
+com/tasktracker/model/Task.class
