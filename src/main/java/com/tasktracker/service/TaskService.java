@@ -3,7 +3,6 @@ package com.tasktracker.service;
 
 import com.tasktracker.dto.TaskCreateDto;
 import com.tasktracker.dto.TaskResponseDto;
-import com.tasktracker.model.Task;
 
 import java.util.List;
 import java.util.Optional;
