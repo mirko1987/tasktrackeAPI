@@ -1,8 +1,8 @@
-/Users/mirkovitale/Desktop/task-tracker/src/main/java/com/tasktracker/TaskTrackerApplication.java
-/Users/mirkovitale/Desktop/task-tracker/src/main/java/com/tasktracker/controller/TaskController.java
-/Users/mirkovitale/Desktop/task-tracker/src/main/java/com/tasktracker/dto/TaskCreateDto.java
-/Users/mirkovitale/Desktop/task-tracker/src/main/java/com/tasktracker/dto/TaskResponseDto.java
-/Users/mirkovitale/Desktop/task-tracker/src/main/java/com/tasktracker/model/Task.java
-/Users/mirkovitale/Desktop/task-tracker/src/main/java/com/tasktracker/repository/TaskRepository.java
-/Users/mirkovitale/Desktop/task-tracker/src/main/java/com/tasktracker/service/TaskService.java
-/Users/mirkovitale/Desktop/task-tracker/src/main/java/com/tasktracker/service/TaskServiceImpl.java
+/Users/mirkovitale/Desktop/task/task-tracker-be/src/main/java/com/tasktracker/TaskTrackerApplication.java
+/Users/mirkovitale/Desktop/task/task-tracker-be/src/main/java/com/tasktracker/controller/TaskController.java
+/Users/mirkovitale/Desktop/task/task-tracker-be/src/main/java/com/tasktracker/dto/TaskCreateDto.java
+/Users/mirkovitale/Desktop/task/task-tracker-be/src/main/java/com/tasktracker/dto/TaskResponseDto.java
+/Users/mirkovitale/Desktop/task/task-tracker-be/src/main/java/com/tasktracker/model/Task.java
+/Users/mirkovitale/Desktop/task/task-tracker-be/src/main/java/com/tasktracker/repository/TaskRepository.java
+/Users/mirkovitale/Desktop/task/task-tracker-be/src/main/java/com/tasktracker/service/TaskService.java
+/Users/mirkovitale/Desktop/task/task-tracker-be/src/main/java/com/tasktracker/service/TaskServiceImpl.java

@@ -38,7 +38,7 @@ public class TaskResponseDto {
         return description;
     }
 
-    public void voidsetDescription(String description) {
+    public void setDescription(String description) {
         this.description = description;
     }
 

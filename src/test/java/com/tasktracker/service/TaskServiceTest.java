@@ -31,7 +31,6 @@ class TaskServiceTest {
     private Task task1;
     private Task task2;
     private TaskResponseDto taskResponseDto1;
-    private TaskResponseDto taskResponseDto2;
 
     @BeforeEach
     void setUp() {
@@ -44,7 +43,6 @@ class TaskServiceTest {
         task2.setCompleted(true);
 
         taskResponseDto1 = new TaskResponseDto(1L, "Test Task 1", "Description for test task 1", false);
-        taskResponseDto2 = new TaskResponseDto(2L, "Test Task 2", "Description for test task 2", true);
     }
 
     @Test
